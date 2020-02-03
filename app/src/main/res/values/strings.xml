@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DRWBT</string>
+    <string name="ListDevices">List BT devices</string>
+    <string name="ConnectDevice">Connect to device</string>
+    <string name="ForwardButton">FORWARD</string>
+    <string name="BackwardButton">BACKWARD</string>
+    <string name="LeftButton">LEFT</string>
+    <string name="RightButton">RIGHT</string>
+    <string name="StopButton">STOP</string>
+    <string name="UseSensors">USE SENSORS</string>
+    <string name="Information">List BlueTooth device, then select one and connect!</string>
+</resources>
